@@ -1,4 +1,4 @@
-<a href="https://github.com/yourusername">
+<a href="https://github.com/lironsfadia">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./eighties-github.svg">
     <source media="(prefers-color-scheme: light)" srcset="./eighties-github.svg">
